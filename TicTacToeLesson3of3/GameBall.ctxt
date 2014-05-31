@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GameBall()
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ GameBall\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=void\ setGold()
+comment3.params=
+comment3.target=void\ setSteel()
+comment4.params=
+comment4.target=void\ reset()
+comment5.params=
+comment5.target=boolean\ isUnclicked()
+comment6.params=
+comment6.target=boolean\ isGold()
+comment7.params=
+comment7.target=boolean\ isSteel()
+comment8.params=
+comment8.target=void\ setWinIfGold()
+comment9.params=
+comment9.target=void\ setWinIfSteel()
+numComments=10

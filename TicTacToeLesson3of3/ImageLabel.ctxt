@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=message
+comment0.target=ImageLabel(java.lang.String)
+comment0.text=\ \n\ Act\ -\ do\ whatever\ the\ ImageLabel\ wants\ to\ do.\ This\ method\ is\ called\ whenever\ \n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\ \n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ ImageLabel\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=2
