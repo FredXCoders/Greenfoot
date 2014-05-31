@@ -45,7 +45,7 @@ public class Board  extends World
     
     public void act(){
         if (    //check if gold wins
-            ( cell_1.isGold() && cell_2.isGold() && cell_3.isGold() ) 
+            ( cell_1.isGold() && cell_2.isGold() && cell_3.isGold() || cell_4.isGold() && cell_5.isGold() && cell_6.isGold() || cell_7.isGold() && cell_8.isGold() && cell_9.isGold() ) 
         )
         {
             //Gold Wins!
@@ -58,7 +58,7 @@ public class Board  extends World
         }
         else{
             if (    //check if steel wins
-                ( cell_1.isSteel() && cell_2.isSteel() && cell_3.isSteel() )
+                ( cell_1.isSteel() && cell_2.isSteel() && cell_3.isSteel() || cell_4.isSteel() && cell_5.isSteel() && cell_6.isSteel() || cell_7.isSteel() && cell_8.isSteel() && cell_9.isSteel() )
             )
             {
                 //Steel wins!
