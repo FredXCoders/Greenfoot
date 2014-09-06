@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Enemy()
+comment1.params=accelB
+comment1.target=Enemy(boolean)
+comment1.text=26\:
+comment2.params=accelB\ r\ g\ b\ diff\ chance
+comment2.target=Enemy(boolean,\ int,\ int,\ int,\ int,\ int)
+comment2.text=36\:
+comment3.params=
+comment3.target=boolean\ atWorldEdge()
+comment3.text=46\:
+comment4.params=
+comment4.target=void\ turnToPlayer()
+comment4.text=64\:
+comment5.params=
+comment5.target=void\ explode()
+comment6.params=
+comment6.target=void\ act()
+comment6.text=70\:
+numComments=7

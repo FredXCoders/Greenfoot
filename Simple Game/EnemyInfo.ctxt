@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=accel\ r\ g\ b\ dif\ chance
+comment0.target=EnemyInfo(boolean,\ int,\ int,\ int,\ int,\ int)
+numComments=1

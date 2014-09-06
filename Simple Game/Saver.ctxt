@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Saver()
+comment0.text=7\:
+comment1.params=score
+comment1.target=void\ saveHighscore(int)
+comment1.text=15\:
+numComments=2

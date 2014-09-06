@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SimpleWorld()
+comment1.params=
+comment1.target=void\ makeEnemyInformation()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ gameOver()
+comment4.params=
+comment4.target=void\ levelStuff()
+comment5.params=
+comment5.target=void\ enemyStuff()
+comment6.params=level
+comment6.target=void\ addEnemy(int)
+numComments=7
